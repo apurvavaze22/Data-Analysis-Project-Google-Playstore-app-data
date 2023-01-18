@@ -1,14 +1,21 @@
-# Data-Analysis-Project---Playstore-app-analysis
+# Analysis of Google Playstore Apps
+A data analysis and visualization project covering a real-world dataset of the Google Play store, one of the most used applications for downloading Android apps.
 
-This is data analysis and visualization project on the analysis of Google Play store app.It is the very useful Android application used to download any other applications.The main focus of this project is to cleanse the data set,analyze it to get meaningful insights.
+>This project aims for cleaning the dataset, analyze the given dataset, and mining informational quality insights. 
 
-Data set used : Real-world dataset of the Google Play store app
+>This project also involves visualizing the data to better and easily understand trends and different categories.
 
-This project is basically divided into below Phases: 
-1. Data Pre-processing and Wrangling with Python: 
-   Handled the duplicates, missing values and irregular values in data by using Python. Please refer ro Jupiter Notebook file.
-2. Exported clean CSV files
-3. Analyzing Data with MySQL
-4. Conducted analysis and obtained insights about the data by using SQL. Please refer to SQL and txt file.
-5. Visualizing Data with Power BI
-6. Created a dashboard about insights got in the previous phase for a visual understanding and analysis. Please refer to Power BI file.
+## Phases
+
+### Data Pre-processing and Wrangling with `Python`
+
+- Handled the duplicates, missing values and irregular values in data by using Python. Please refer ro Jupiter Notebook file.
+- Exported clean CSV files.
+
+### Analyzing Data with `MySQL`
+
+- Conducted analysis and obtained insights about the data by using SQL. Please refer to SQL and txt file.
+
+### Visualizing Data with `Power BI`
+
+- Created a dashboard about insights got in the previous phase for a visual understanding and analysis. Please refer to Power BI file.
